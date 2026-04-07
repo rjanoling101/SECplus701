@@ -165,7 +165,7 @@ Int Fa 0/4
   switchport access vlan 10
 Int Fa 0/6
   switchport mode access
-  switchport access vlan 50  
+  switchport access vlan 50  https://github.com/rjanoling101/SECplus701/blob/main/DAY1-May5-SirRob.txt
 Int Fa 0/8
   switchport mode access
   switchport access vlan 50    
@@ -267,12 +267,12 @@ ephone-dn 8
 ephone-dn 10
  number 3298
 Ephone 1
-  Mac-address cafe.face.baba
+  Mac-address ccd8.c1fb.0e8d 
   type 8945
   button 1:8 2:7 3:6 4:5
   restart
 Ephone 2
-  Mac-address fafa.caca.baba
+  Mac-address dca5.f43f.3b7f
   type 8945
   button 1:4 2:3 3:2 4:1
   restart  
